@@ -15,7 +15,7 @@ There are 240,124 current employees working at Pewlett Hackard.
 
 There are 90,398 employees that are expected to retire over the next few years at Pewlett Hackard.  This is very ssignificant compared to the ~240,000 employees working at the company now. 
 
-![Retirees](https://github.com/JaniceBgithub/Pewlett-Hackard)
+![Retirees](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/Retirees_title.png)
 
 
 # Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
