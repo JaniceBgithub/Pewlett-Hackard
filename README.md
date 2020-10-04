@@ -29,5 +29,10 @@ There are 90,398 employees that are expected to retire over the next few years a
 
 There are about 1500 employees that are elgible for the mentorship program.  This is probably not sufficient for the next generation of Pewlett Hackard employees. They may want to consider expanding eligibility for the program.
 
+# Years of service histogram
 
-Two other tables or queries: 
+The assumed date of data retrieval for this assignment is 2003, so that some employees have ~1 year of service and there are no negative values in current date minus start date. 
+
+The years of service was plotted and resulted in an unusual block with a steep drop off at ~20 years.  I don't think this is real data - where you would expect to see a more normal distribution of ages and more people with extended tenures!
+
+![hist](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/Histogram.png)
