@@ -39,6 +39,6 @@ The years of service was plotted and resulted in an unusual block with a steep d
 
 # Salaries by start date for current employees
 
-The salaries by start date was plotted.  The more senior employees are on the left hand side, the more recent starters are on the right.  There is not a huge differnece in salaries vs start date.  Pewlett Hackard should not expect to see significant savings in salaries as their older workers retire. 
+The salaries by start date was plotted.  The more senior employees are on the left hand side, the more recent starters are on the right.  There is not a huge difference in salaries vs start date.  Pewlett Hackard should not expect to see significant savings in salaries as their older workers retire. 
 
 ![salaries](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/Salary_scatter.png)
