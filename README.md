@@ -7,10 +7,10 @@ This project scope was to determine the number of retiring employees per title, 
 ## Results
 
 The main results include: 
--There are 240,124 current employees working at Pewlett Hackard.
--There are only about 1500 people eligible for the mentoring program (those born in 1965)
+- There are 240,124 current employees working at Pewlett Hackard.
+- There are only about 1500 people eligible for the mentoring program (those born in 1965)
 - About 90,000 employees are eligible for retirement over the next few years 
--The depatments most affected by retirements will be: 
+- The depatments most affected by retirements will be: 
 
 ![retirements](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/Dept_retiree.png)
 
