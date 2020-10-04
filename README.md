@@ -45,4 +45,4 @@ The salaries by start date was plotted.  The more senior employees are on the le
 
 A histogram of salaries by tenure greater than or less than 10 years was created with no significant difference between the two groups. 
 
-![salaries1]
+
