@@ -43,6 +43,8 @@ The salaries by start date was plotted.  The more senior employees are on the le
 
 ![salaries](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/Salary_scatter.png)
 
-A histogram of salaries by tenure greater than or less than 10 years was created with no significant difference between the two groups. 
+A histogram of salaries by tenure greater than or less than 10 years was created with no significant difference between the two groups.  Similar to the scatter plot, there are no major differences in salary for greater than or less than 10 years of service. 
+
+![salary2](https://github.com/JaniceBgithub/Pewlett-Hackard/blob/main/Resources/salary_histograms.png)
 
 
